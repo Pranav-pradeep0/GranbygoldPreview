@@ -123,7 +123,7 @@ const Footer = () => {
               </Typography>
               <Button
                 startIcon={<Phone size={18} />}
-                href="tel:09446330912"
+                href="tel:9048052234"
                 sx={{
                   color: "white",
                   textTransform: "none",
@@ -131,7 +131,7 @@ const Footer = () => {
                   padding: "4px 0",
                 }}
               >
-                +91 9446330912
+                +91 9048052234
               </Button>
               <Button
                 startIcon={<MapPin size={18} />}
@@ -200,7 +200,7 @@ const Footer = () => {
                   whileTap={{ scale: 0.95 }}
                 >
                   <IconButton
-                    href={`https://wa.me/919446330912`}
+                    href={`https://wa.me/919048052234`}
                     target="_blank"
                     sx={socialIconStyle}
                   >
